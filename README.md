@@ -1,1 +1,1 @@
-# Recipes-Projetact
+# In this project, i'm do basicaly a website with someone recipes. This is a challenge of The Odin Project
