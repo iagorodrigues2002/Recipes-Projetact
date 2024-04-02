@@ -1,1 +1,1 @@
-# In this project, i'm do basicaly a website with something recipes. This is a challenge of The Odin Project
+# In this project, i'm do basicaly a website with some recipes. This is a challenge of The Odin Project
